@@ -1,2 +1,2 @@
-# workshop-gthub
+# workshop-github
 ทดสอบ
